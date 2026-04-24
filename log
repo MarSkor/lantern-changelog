@@ -1,0 +1,16 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "April 2026",
+    "changes": [
+      "Initial release",
+      "Watch conditions — Clear, Settled, Overcast, Squall, Storm",
+      "Raven observation after each entry",
+      "Logbook heatmap with 5 colour palettes",
+      "Streak tracking",
+      "Plain text export",
+      "Evening reminder bell",
+      "Late entry logging for missed nights"
+    ]
+  }
+]
