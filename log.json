@@ -1,16 +1,20 @@
 [
   {
     "version": "1.0.0",
-    "date": "April 2026",
+    "date": "28 April 2026",
     "changes": [
-      { "type": "new", "text": "Initial release" },
-      { "type": "new", "text": "Watch conditions — Clear, Settled, Overcast, Squall, Storm" },
-      { "type": "new", "text": "Raven observation after each entry" },
-      { "type": "new", "text": "Logbook heatmap with 5 colour palettes" },
-      { "type": "new", "text": "Streak tracking" },
+      { "type": "new", "text": "Nightly condition log — Storm, Squall, Overcast, Settled, Clear" },
+      { "type": "new", "text": "Watch Notes and Watch Needs — optional tokens per entry" },
+      { "type": "new", "text": "Keeper's note — free-text field per entry" },
+      { "type": "new", "text": "Logbook calendar heatmap with two free palettes — Seafarer and Nautical" },
+      { "type": "new", "text": "Late entry logging — backfill any past night from the logbook" },
+      { "type": "new", "text": "The raven — pattern-based observation after each entry" },
+      { "type": "new", "text": "The Tides — waveform, condition breakdown, and monthly record" },
+      { "type": "new", "text": "The Harbourmaster — weekly note drawn from your log" },
+      { "type": "new", "text": "Evening bell — optional daily reminder" },
       { "type": "new", "text": "Plain text export" },
-      { "type": "new", "text": "Evening reminder bell" },
-      { "type": "new", "text": "Late entry logging for missed nights" }
+      { "type": "new", "text": "Passcode and biometric lock" },
+      { "type": "new", "text": "Onboarding — first log on launch" }
     ]
   }
 ]
