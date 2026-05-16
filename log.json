@@ -1,5 +1,17 @@
 [
   {
+  "version": "0.1.2",
+  "date": "16 May 2026",
+  "changes": [
+    { "type": "new", "text": "Recent nights on the Watch screen — last 5 entries with condition colours and watch note tags" },
+    { "type": "improved", "text": "FAB now positioned correctly above the navigation bar across all device types" },
+    { "type": "improved", "text": "Saving an edit from a notification tap returns to the Watch screen" },
+    { "type": "improved", "text": "Log card taps from the Watch screen return to Watch after saving" },
+    { "type": "fix", "text": "Duplicate GlobalKey error when switching tabs" },
+    { "type": "fix", "text": "Router no longer recreated on settings changes" }
+  ]
+},
+  {
     "version": "0.1.1",
     "date": " 15 May 2026",
     "changes": [
