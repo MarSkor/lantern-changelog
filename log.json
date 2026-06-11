@@ -1,5 +1,22 @@
 [
   {
+  "version": "1.0.0",
+  "date": "11 June 2026",
+  "changes": [
+    { "type": "new", "text": "Lantern is now available on Google Play." },
+    { "type": "new", "text": "Nightly condition log — Storm, Squall, Overcast, Settled, Clear." },
+    { "type": "new", "text": "Watch Notes and Watch Needs — optional tokens per entry." },
+    { "type": "new", "text": "Logbook calendar heatmap — Seafarer and Nautical palettes." },
+    { "type": "new", "text": "The raven — pattern-based observation after each entry." },
+    { "type": "new", "text": "The Tides — waveform, condition breakdown, and monthly record." },
+    { "type": "new", "text": "The Harbourmaster — weekly note drawn from your log." },
+    { "type": "new", "text": "Evening bell — optional daily reminder." },
+    { "type": "new", "text": "Plain text export." },
+    { "type": "new", "text": "Passcode and fingerprint lock." },
+    { "type": "new", "text": "Late entry backfilling from the logbook." }
+  ]
+},
+  {
   "version": "0.1.2",
   "date": "16 May 2026",
   "changes": [
