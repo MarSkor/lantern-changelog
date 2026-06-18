@@ -1,5 +1,15 @@
 [
   {
+  "version": "1.0.1",
+  "date": "18 June 2026",
+  "changes": [
+    { "type": "new", "text": "Daywatch — a light theme for keeping the log in daylight." },
+    { "type": "improved", "text": "FAQ answers now slide in smoothly and only one question stays open at a time." },
+    { "type": "improved", "text": "Update notice no longer hidden behind the log button — now appears as a centred dialog." },
+    { "type": "fix", "text": "Opening the app from a reminder notification now goes directly to the log entry screen." }
+  ]
+},
+  {
   "version": "1.0.0",
   "date": "11 June 2026",
   "changes": [
